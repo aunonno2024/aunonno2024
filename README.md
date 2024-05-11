@@ -12,7 +12,7 @@
 Here's a glimpse of the projects I've been working on:
 
 - **PalettePassport**:
-- **      **:
+- **VitroCode**: It's a Simple Blurred Custom theme for VSCODE!
 - **   **:
 - **PMOS-Installer**:
 
