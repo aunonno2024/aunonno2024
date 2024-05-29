@@ -11,7 +11,7 @@
 ## My Work
 Here's a glimpse of the projects I've been working on:
 
-- **PalettePassport**:
+- **PMOS-Installer**:
 
 ## Let's Connect
 Feel free to connect with me on:
