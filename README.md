@@ -11,7 +11,7 @@
 ## My Work
 Here's a glimpse of the projects I've been working on:
 
-- **PMOS-Installer**: "A simple GUI (Graphical User Interface) tool to install PostmarketOS on PostmarketOS supported devices. 
+- **PMOS-Installer**: "A simple GUI (Graphical User Interface) tool to install PostmarketOS on PostmarketOS supported devices." 
 
 ## Let's Connect
 Feel free to connect with me on:
