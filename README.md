@@ -11,7 +11,7 @@
 ## My Work
 Here's a glimpse of the projects I've been working on:
 
-- **PMOS-Installer**: "A simple GUI (Graphical User Interface) tool to install PostmarketOS on PostmarketOS supported devices." 
+- **Disk-Care**: It's a GUI tool for Monitoring SSD Health.  
 
 ## Let's Connect
 Feel free to connect with me on:
