@@ -18,12 +18,6 @@ Here's a glimpse of the projects I've been working on:
 - ** **
 - **Disk-Care**: It's a SSD health checking GUI Desktop Application for GNU/Linux Distrobutions.
 
-## Let's Connect
-Feel free to connect with me on:
-- **GitHub**: @aunonno2024
-- **LinkedIn**: https://www.linkedin.com/in/sish-alam-aunonno-a62710246/
-- **Twitter**: @AlamSish
-
 ## Support
 If you like my work, consider starring ⭐ the repositories or contributing to the projects!
 
