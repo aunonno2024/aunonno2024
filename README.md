@@ -11,9 +11,9 @@
 ## My Work
 Here's a glimpse of the projects I've been working on:
 
-- **GNU-Web-NewLook**: A New UI/UX Design for GNU Website!
+- **GNU-Web-NewLook**:    A New UI/UX Design for GNU Website!
 - **Kernel-Web-NewLook**: A New UI/UX Design for "Linux kernel Archive" Website!
-- ** **
+- **Debian-Web-NewLook**: A New UI/UX Design for  Debian.org Homepage!
 - ** **
 - ** **
 - **Disk-Care**: It's a SSD health checking GUI Desktop Application for GNU/Linux Distrobutions.
