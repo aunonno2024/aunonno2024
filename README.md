@@ -2,7 +2,7 @@
 
 ## About Me
 🔭 I’m currently working on **developing open-source software** that makes a difference.
-🌱 I’m constantly learning and growing my skill set in **Web Development, Desktop Application Development, Game Development!**.
+🌱 I’m constantly learning and growing my skill set in **Desktop Application Development, Mobile Application Development, Game Development!**.
 👯 I’m looking to collaborate on **innovative projects** with fellow enthusiasts.
 💬 Ask me about **anything tech-related**, and I'm happy to engage in a conversation!
 📫 How to reach me: **Through Linkedin & X. But i mostly available in X!**
@@ -14,7 +14,7 @@ Here's a glimpse of the projects I've been working on:
 - **GNU-Web-NewLook**:    A New UI/UX Design for GNU Website!
 - **Kernel-Web-NewLook**: A New UI/UX Design for "Linux kernel Archive" Website!
 - **Debian-Web-NewLook**: A New UI/UX Design for  Debian.org Homepage!
-- ** **
+- **LinguaLinkLive**: Real-Time Multilingual Call Translation — Breaking Language Barriers, Connecting the World!!!
 - **Fluxnova-IDE**:
 - **Disk-Care**: It's a SSD health checking GUI Desktop Application for GNU/Linux Distrobutions.
 
